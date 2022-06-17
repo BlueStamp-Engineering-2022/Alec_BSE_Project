@@ -1,11 +1,11 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Smart Lamp with IoT Technology
+My Smart Lamp detects movement in the area, temperature and humidity. The Lamp also has an additional features for safety, the security mdoe. When activated if movement is detected in the area, an alarm will go off, alerting the owner to the burgalrs presence. If the security mode isn't activated and movement is detected in the room, the lamp will turn on.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Alec Zhang | The Harker School | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://photos.google.com/share/AF1QipO0ofjm79WtdqiaPgvJbRWMM0RYuNqnRIxu0quzmkNXE34ZWxihrzg3TKo6hJyKCQ/photo/AF1QipO76X8UEPWtJQZPNyeBZsK5rTDdjD0T3YQPIbu6?key=X3ZOT0F1Y0xPVzJGVFREY0xPaG1aeHU5Z0RIQXNn)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
