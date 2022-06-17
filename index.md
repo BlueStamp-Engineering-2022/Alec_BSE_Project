@@ -5,7 +5,8 @@ My Smart Lamp detects movement in the area, temperature and humidity. The Lamp a
 |:--:|:--:|:--:|:--:|
 | Alec Zhang | The Harker School | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image]![image](https://user-images.githubusercontent.com/107577299/174337564-16825127-fd10-4998-a080-ebda94a2bd05.png)
+![Headstone Image]!<img width="767" alt="Screen Shot 2022-06-17 at 9 20 20 AM" src="https://user-images.githubusercontent.com/107577299/174337803-5cfe6110-a3b2-4814-a6ca-9fb8a80d731d.png">
+
 
   
 # Final Milestone
