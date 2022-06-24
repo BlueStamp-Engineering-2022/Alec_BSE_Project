@@ -12,16 +12,17 @@ My Smart Lamp detects movement in the area, temperature and humidity. The Lamp a
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
+
 # First Milestone
-  
-  
 I completed all of the electronics including triggers, notifications, sensors and a LED light. The PIR sensor detects infrared, which detects movement around the area. The IDR sensor detects the light level around the room and if it is below a certain level, it will turn on the Neopixel LED ring. The neopixel LED ring can change colors using sliders on the cayenne dashboard. The DHT11 sensor senses the temperature and humidity around the room. If the temperature and humidity are too high or low, a notification will be sent to the owner. There are also 2 other buttons on the cayenne dashboard, the burglar mode, which, if pressed, will detect movement in the room and send a notification to the owner. But when the button is not activated and movement is detected in the room, the lamp will turn on. The False Safe button in case there is a false alert when the burglar mode is turned on. 
+
+[![First Milestone](https://i3.ytimg.com/vi/BQ9KYhZLy0E/maxresdefault.jpg)](https://www.youtube.com/watch?v=BQ9KYhZLy0E)
 
 
 # Useless Machine
