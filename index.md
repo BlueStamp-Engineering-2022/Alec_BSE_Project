@@ -19,6 +19,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
 
+![image](https://content.instructables.com/ORIG/F8H/HNQL/J8QGDILR/F8HHNQLJ8QGDILR.png)
+
+
 # First Milestone
 I completed all of the electronics including triggers, notifications, sensors and a LED light. The PIR sensor detects infrared, which detects movement around the area. The IDR sensor detects the light level around the room and if it is below a certain level, it will turn on the Neopixel LED ring. The neopixel LED ring can change colors using sliders on the cayenne dashboard. The DHT11 sensor senses the temperature and humidity around the room. If the temperature and humidity are too high or low, a notification will be sent to the owner. There are also 2 other buttons on the cayenne dashboard, the burglar mode, which, if pressed, will detect movement in the room and send a notification to the owner. But when the button is not activated and movement is detected in the room, the lamp will turn on. The False Safe button in case there is a false alert when the burglar mode is turned on. 
 
