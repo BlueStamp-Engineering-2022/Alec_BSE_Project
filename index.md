@@ -21,6 +21,15 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 ![image](https://content.instructables.com/ORIG/F8H/HNQL/J8QGDILR/F8HHNQLJ8QGDILR.png)
 
+<img width="493" alt="Screen Shot 2022-06-29 at 11 31 12 AM" src="https://user-images.githubusercontent.com/107577299/176510277-5e7cd8a5-0ec1-4028-83e8-6846b6b1fcbf.png">
+
+<img width="723" alt="Screen Shot 2022-06-29 at 11 31 29 AM" src="https://user-images.githubusercontent.com/107577299/176510306-7e34bb26-bb0c-4d9c-a5f6-63bc266f9a04.png">
+
+<img width="572" alt="Screen Shot 2022-06-29 at 11 31 36 AM" src="https://user-images.githubusercontent.com/107577299/176510363-f7cb9746-fa02-4be5-8ba6-a84004807601.png">
+
+<img width="430" alt="Screen Shot 2022-06-29 at 11 31 42 AM" src="https://user-images.githubusercontent.com/107577299/176510386-6b11b940-5989-477b-8f94-80a275dbcaa9.png">
+
+
 
 # First Milestone
 I completed all of the electronics including triggers, notifications, sensors and a LED light. The PIR sensor detects infrared, which detects movement around the area. The IDR sensor detects the light level around the room and if it is below a certain level, it will turn on the Neopixel LED ring. The neopixel LED ring can change colors using sliders on the cayenne dashboard. The DHT11 sensor senses the temperature and humidity around the room. If the temperature and humidity are too high or low, a notification will be sent to the owner. There are also 2 other buttons on the cayenne dashboard, the burglar mode, which, if pressed, will detect movement in the room and send a notification to the owner. But when the button is not activated and movement is detected in the room, the lamp will turn on. The False Safe button in case there is a false alert when the burglar mode is turned on. 
