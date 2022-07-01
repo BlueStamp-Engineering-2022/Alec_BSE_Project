@@ -21,13 +21,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 ![image](https://content.instructables.com/ORIG/F8H/HNQL/J8QGDILR/F8HHNQLJ8QGDILR.png)
 
-<img width="493" alt="Screen Shot 2022-06-29 at 11 31 12 AM" src="https://user-images.githubusercontent.com/107577299/176510277-5e7cd8a5-0ec1-4028-83e8-6846b6b1fcbf.png">
+![IMG_2339](https://user-images.githubusercontent.com/107577299/176978044-8d126bcf-b2a6-4d83-aa3f-1ca3e405f010.jpg)
 
-<img width="723" alt="Screen Shot 2022-06-29 at 11 31 29 AM" src="https://user-images.githubusercontent.com/107577299/176510306-7e34bb26-bb0c-4d9c-a5f6-63bc266f9a04.png">
-
-<img width="572" alt="Screen Shot 2022-06-29 at 11 31 36 AM" src="https://user-images.githubusercontent.com/107577299/176510363-f7cb9746-fa02-4be5-8ba6-a84004807601.png">
-
-<img width="430" alt="Screen Shot 2022-06-29 at 11 31 42 AM" src="https://user-images.githubusercontent.com/107577299/176510386-6b11b940-5989-477b-8f94-80a275dbcaa9.png">
+<img width="200" alt="Screen Shot 2022-06-29 at 11 31 12 AM" src="https://user-images.githubusercontent.com/107577299/176510277-5e7cd8a5-0ec1-4028-83e8-6846b6b1fcbf.png"> <img width="200" alt="Screen Shot 2022-06-29 at 11 31 42 AM" src="https://user-images.githubusercontent.com/107577299/176510386-6b11b940-5989-477b-8f94-80a275dbcaa9.png"> <img width="200" alt="Screen Shot 2022-06-29 at 11 31 29 AM" src="https://user-images.githubusercontent.com/107577299/176510306-7e34bb26-bb0c-4d9c-a5f6-63bc266f9a04.png"> <img width="200" alt="Screen Shot 2022-06-29 at 11 31 36 AM" src="https://user-images.githubusercontent.com/107577299/176510363-f7cb9746-fa02-4be5-8ba6-a84004807601.png"> 
 
 
 
