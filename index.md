@@ -10,12 +10,12 @@ My Smart Lamp detects movement in the area, temperature and humidity. The Lamp a
 
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is adding an additional feature to my lamp. My additional feature for this project was the increased radius to the LED ring. Instead of just 12 led lights, I made a 35 led neopixel ring. With this modification came many struggles. I had to redesgin all of my schematics for my enclosure and dome and also use a makeshift cardboard for a divet. 
 
 [![Final Milestone](https://i3.ytimg.com/vi/9kh0GzjxDNE/maxresdefault.jpg )](https://www.youtube.com/watch?v=9kh0GzjxDNE&feature=emb_logo "Final Milestone")
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was simply making sure all of the code and the electronics were able to work. My biggest struggle during this milestone was the timer. I tried to find multiple libraries that had a timer function, but I ended up just using arduino’s slight delay between each command to sum up a delay for when movement is detected. The rest of my code is pretty straightfoward, either scanning in the different values, or adjusting the lights based on the values of the sensors.
 
 [![Second Milestone](https://i3.ytimg.com/vi/SQUfqLcNOkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=SQUfqLcNOkU&feature=emb_logo "Second Milestone")
 
@@ -24,7 +24,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 ![IMG_2339](https://user-images.githubusercontent.com/107577299/176978044-8d126bcf-b2a6-4d83-aa3f-1ca3e405f010.jpg)
 
 <img width="200" alt="Screen Shot 2022-06-29 at 11 31 12 AM" src="https://user-images.githubusercontent.com/107577299/176510277-5e7cd8a5-0ec1-4028-83e8-6846b6b1fcbf.png"> <img width="200" alt="Screen Shot 2022-06-29 at 11 31 42 AM" src="https://user-images.githubusercontent.com/107577299/176510386-6b11b940-5989-477b-8f94-80a275dbcaa9.png"> <img width="200" alt="Screen Shot 2022-06-29 at 11 31 29 AM" src="https://user-images.githubusercontent.com/107577299/176510306-7e34bb26-bb0c-4d9c-a5f6-63bc266f9a04.png"> <img width="200" alt="Screen Shot 2022-06-29 at 11 31 36 AM" src="https://user-images.githubusercontent.com/107577299/176510363-f7cb9746-fa02-4be5-8ba6-a84004807601.png"> 
-
 
 
 # First Milestone
